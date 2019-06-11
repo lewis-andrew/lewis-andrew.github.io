@@ -54,40 +54,6 @@ topic-status: Drafting
 
 </td></tr>
 
-<tr><td>
-<h2>Increase sales</h2>
-
-<li><a href="nurture-sales-from-lead-order-sales.md" data-raw-source="[Nurture sales from lead to cash](nurture-sales-from-lead-order-sales.md)">Nurture sales from lead to cash</a></li>
-<li><a href="create-edit-lead-sales.md" data-raw-source="[Create or edit a lead](create-edit-lead-sales.md)">Create or edit a lead</a></li>
-<li><a href="qualify-lead-convert-opportunity-sales.md" data-raw-source="[Convert a lead to an opportunity](qualify-lead-convert-opportunity-sales.md)">Convert a lead to an opportunity</a></li>
-<li><a href="../sales-enterprise/re-open-lead-sales.md" data-raw-source="[Reopen a lead](../sales-enterprise/re-open-lead-sales.md)">Reopen a lead</a></li>
-<li><a href="create-edit-opportunity-sales.md" data-raw-source="[Create or edit an opportunity](create-edit-opportunity-sales.md)">Create or edit an opportunity</a></li>
-<li><a href="../sales-enterprise/close-opportunity-won-lost-sales.md" data-raw-source="[Close an opportunity as won or lost](../sales-enterprise/close-opportunity-won-lost-sales.md)">Close an opportunity as won or lost</a></li>
-
-
-</td><td>
-
-<h2>Create and work with collateral</h2>
-
-<li><a href="create-edit-quote-sales.md" data-raw-source="[Create or edit a quote](create-edit-quote-sales.md)">Create or edit a quote</a></li>
-<li><a href="create-edit-order-sales.md" data-raw-source="[Create or edit an order ](create-edit-order-sales.md)">Create or edit an order </a></li>
-<li><a href="create-edit-invoice-sales.md" data-raw-source="[Create or edit an invoice](create-edit-invoice-sales.md)">Create or edit an invoice</a></li>
-
-
-</td></tr>
-
-<tr><td>
-<h2>Create a marketing campaign </h2>
-
-   
-<li><a href="../sales-enterprise/create-marketing-list-using-app-marketing-sales.md" data-raw-source="[Create a marketing list using in-app marketing](../sales-enterprise/create-marketing-list-using-app-marketing-sales.md)"> Create a marketing list using in-app marketing</a></li>
-<li><a href="create-quick-campaign-using-app-marketing-sales.md" data-raw-source="[Create a quick campaign](create-quick-campaign-using-app-marketing-sales.md)">Create a quick campaign</a></li>
-<li><a href="add-marketing-list-sales-literature-product-campaign-using-app-marketing-sales.md" data-raw-source="[Add assets to a campaign](add-marketing-list-sales-literature-product-campaign-using-app-marketing-sales.md)">Add assets to a campaign</a></li>
-<li><a href="create-edit-campaign-using-app-marketing-sales.md" data-raw-source="[Create or edit a campaign](create-edit-campaign-using-app-marketing-sales.md)">Create or edit a campaign</a></li>
-<li><a href="add-activity-campaign-using-app-marketing-sales.md" data-raw-source="[Add an activity to a campaign](add-activity-campaign-using-app-marketing-sales.md)">Add an activity to a campaign</a></li>
-<li><a href="track-marketing-campaign-response-using-app-marketing-sales.md" data-raw-source="[Track a marketing campaign response](track-marketing-campaign-response-using-app-marketing-sales.md)">Track a marketing campaign response</a></li>
-</td>
-
 <td>
 <h2>Import and export data</h2>
 
@@ -127,10 +93,7 @@ topic-status: Drafting
 <h2>Work with Outlook</h2>
 <li><a href="../outlook-app/dynamics-365-app-outlook-user-s-guide.md" data-raw-source="[Dynamics 365 App for Outlook User Guide](../outlook-app/dynamics-365-app-outlook-user-s-guide.md)">Dynamics 365 App for Outlook User Guide</a></li>
 
-
 </td>
 </tr>
 
 </table>
-
-
