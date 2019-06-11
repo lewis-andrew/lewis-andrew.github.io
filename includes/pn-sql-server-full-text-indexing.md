@@ -1,1 +1,0 @@
-SQL Server full-text indexing

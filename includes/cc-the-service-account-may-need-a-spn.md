@@ -1,1 +1,0 @@
-The service account may need an SPN for the URL used to access the website that is associated with it.

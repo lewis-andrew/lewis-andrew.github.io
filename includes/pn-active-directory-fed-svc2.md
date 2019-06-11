@@ -1,1 +1,0 @@
-Active Directory Federation Services 2.0

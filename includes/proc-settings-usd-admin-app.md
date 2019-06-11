@@ -1,1 +1,0 @@
-Go to **Settings** > **My Apps** >  **Unified Service Desk Administrator**.

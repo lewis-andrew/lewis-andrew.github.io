@@ -1,1 +1,0 @@
-Sets the authentication token provider.
